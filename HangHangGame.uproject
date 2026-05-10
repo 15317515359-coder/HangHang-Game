@@ -1,0 +1,18 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.0",
+    "Category": "Simulation",
+    "Description": "A cozy farm simulation game",
+    "Modules": [
+        {
+            "Name": "HangHangGame",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "PlatformAllowList": [
+                "Win64",
+                "Mac",
+                "Linux"
+            ]
+        }
+    ]
+}
